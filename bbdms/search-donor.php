@@ -171,10 +171,10 @@ include('includes/config.php');
 						</select>
 					</div>
 
-					<div class="form-group">
+<!-- 					<div class="form-group">
 						<label for="location">Location</label>
 						<textarea class="form-control" name="location"></textarea>
-					</div>
+					</div> -->
 
 					<div class="form-group">
 						<input type="submit" name="sub" class="btn btn-submit" value="Submit">
